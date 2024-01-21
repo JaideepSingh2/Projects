@@ -1,2 +1,2 @@
 # Projects
-These are my college projects
+These are my college project
